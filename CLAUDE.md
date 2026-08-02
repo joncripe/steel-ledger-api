@@ -11,7 +11,8 @@ future web client (`steel-ledger-web`).
 ## Where the "why" lives
 - **Full project scope, MVP definition, epics, data model**: [Confluence — The
   Steel Ledger Project Scope](https://joncripe.atlassian.net/wiki/spaces/TSL/pages/66041)
-- **Architecture decisions and reasoning**: [`/docs/adr`](./docs/adr)
+- **Architecture decisions and reasoning (API/code only — infra decisions
+  moved to `steel-ledger-infra`)**: [`/docs/adr`](./docs/adr)
 - **Ticket tracking**: Jira project `TSL`, Epic 1 = `TSL-4`
 
 Don't re-derive or restate reasoning from those sources here, link to them.
